@@ -1,6 +1,0 @@
-1) gender — пол;
-2) race/ethnicity — раса/этническая принадлежность;
-3) parental level of education — уровень образования родителей;
-4) lunch — какие обеды получал студент во время обучения (standard — платный, free/reduced — бесплатный);
-5) test preparation course — посещал ли студент курсы подготовки к экзаменам (none — не посещал, completed — посещал);
-6) math score, reading score, writing score — баллы по математике, чтению и письму по сто балльной шкале.
